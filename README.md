@@ -1,5 +1,3 @@
-# passiveincome
-basic affiliate marketing
 
 <!DOCTYPE html>
 <html lang="en">
