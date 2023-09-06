@@ -1,0 +1,2 @@
+# passiveincome
+basic affiliate marketing 
