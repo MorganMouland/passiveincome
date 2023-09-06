@@ -8,19 +8,19 @@
 </head>
 <body>
     <header>
-        <h1>Welcome to Gut Go Drops Affiliate Marketing</h1>
+        <h1>Gut Go Drops </h1>
     </header>
 
     <nav>
         <ul>
             <li><a href="#about">About</a></li>
             <li><a href="#products">Products</a></li>
-            <li><a href="#contact">Contact</a></li>
+            <li><a href="#otherproducts">Other Products</a></li>
         </ul>
     </nav>
 
     <section id="about">
-        <h2>About Us</h2>
+        <h2>About Gut Go Drops</h2>
         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit....</p>
     </section>
 
