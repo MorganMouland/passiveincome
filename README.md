@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -100,7 +100,7 @@
     <section id="about">
         <h2>About Gut Go Drops</h2>
         <p>Digestive issues can be incredibly uncomfortable, affecting our daily lives and overall well-being. If you're one of the millions who suffer from chronic constipation, bloating, or gas, you know just how disruptive these problems can be. Thankfully, Gut Go Drops are here to provide relief and transform your digestive health. In this blog, we'll dive into the world of Gut Go Drops, exploring their benefits and sharing reviews from individuals who have experienced its remarkable effects on various digestive problems.</p>
-        <p>The Science Behind Gut Go Drops
+        <p>The Science Behind Gut Go Drops.
 
 Gut Go Drops is a liquid drop supplement meticulously formulated to address chronic constipation while simultaneously alleviating bloating and gas. This innovative solution is designed to gently flush out accumulated waste and toxins from the colon, potentially removing anywhere from 5 to 20 pounds of trapped fecal matter. Let's take a closer look at how Gut Go Drops work:
 
@@ -143,9 +143,8 @@ Gut Go Drops have emerged as a promising solution for individuals seeking relief
         <ul>
             <li>
                 <h3>Gut Go Drops</h3>
-                <p>Order Gut Go Drops Today!. <a href="https://e5c218pmxmtq4u5cya-o6o2x87.hop.clickbank.net">Click Here</a></p>
+                <p>Order Gut Go Drops Today! <a href="https://e5c218pmxmtq4u5cya-o6o2x87.hop.clickbank.net">Click Here</a></p>
             </li>
-=
         </ul>
     </section>
 
@@ -166,7 +165,7 @@ Gut Go Drops have emerged as a promising solution for individuals seeking relief
             </li>
                         <li>
                 <h3>Liv Pure</h3>
-                <p>One of the most explosive offers in decades.. <a href="https://02a9e9vqxi6p9m5frq-qt94v57.hop.clickbank.net">Visit the Site</a>
+                <p>One of the most explosive offers in decades. <a href="https://02a9e9vqxi6p9m5frq-qt94v57.hop.clickbank.net">Visit the Site</a>
 </p>
             </li>
                         <li>
