@@ -7,13 +7,13 @@
     <style>
         body {
             font-family: Arial, sans-serif;
-            background-color: #f2f2f2;
+            background-color: #800080;
             margin: 0;
             padding: 0;
         }
 
         header {
-            background-color: #009688;
+            background-color: #800080;
             color: #fff;
             text-align: center;
             padding: 20px 0;
@@ -145,20 +145,17 @@ Gut Go Drops have emerged as a promising solution for individuals seeking relief
     </section>
 
     <section id="contact">
-        <h2>Contact Us</h2>
-        <p>If you have any questions or inquiries, please contact us:</p>
-        <form>
-            <label for="name">Name:</label>
-            <input type="text" id="name" name="name" required><br>
-
-            <label for="email">Email:</label>
-            <input type="email" id="email" name="email" required><br>
-
-            <label for="message">Message:</label>
-            <textarea id="message" name="message" required></textarea><br>
-
-            <input type="submit" value="Submit">
-        </form>
+        <h2>Other Products</h2>
+        <p>Check out some other beest selling, and highly reviewed products:</p>
+        <ul>
+            <li>
+                <h3>Product 1</h3>
+                <p>Description of Product 1. <a href="product_1">Learn More</a></p>
+            </li>
+            <li>
+                <h3>Product 2</h3>
+                <p>Description of Product 2. <a href="product_2">Learn More</a></p>
+            </li>
     </section>
 
     <footer>
