@@ -3,108 +3,141 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Gut Go Drops Affiliate Marketing</title>
+    <title>Gut Go Drops</title>
+    <link rel="stylesheet" href="styles.css">
     <style>
-        /* Reset some default styles */
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-        }
-
-        /* Set a background color and font family */
         body {
             font-family: Arial, sans-serif;
-            background-color: #f0f0f0;
+            background-color: #f2f2f2;
             margin: 0;
             padding: 0;
         }
 
-        /* Style the header */
         header {
-            background-color: #333;
+            background-color: #009688;
             color: #fff;
             text-align: center;
-            padding: 20px;
+            padding: 20px 0;
         }
 
-        /* Style the navigation menu */
-        nav {
-            background-color: #444;
-            color: #fff;
-            text-align: center;
-            padding: 10px;
+        h1 {
+            font-size: 28px;
         }
 
         nav ul {
             list-style-type: none;
+            padding: 0;
+            background-color: #333;
+            overflow: hidden;
         }
 
-        nav ul li {
-            display: inline;
-            margin-right: 20px;
+        nav li {
+            float: left;
         }
 
-        nav a {
+        nav li a {
+            display: block;
+            color: white;
+            text-align: center;
+            padding: 14px 16px;
             text-decoration: none;
-            color: #fff;
         }
 
-        /* Style sections */
+        nav li a:hover {
+            background-color: #4CAF50;
+        }
+
         section {
             padding: 20px;
-            margin: 20px;
             background-color: #fff;
+            margin: 20px;
             border-radius: 5px;
-            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
         }
 
-        /* Style the form in the contact section */
-        form {
-            max-width: 400px;
-            margin: 0 auto;
+        h2 {
+            color: #333;
         }
 
-        label {
-            display: block;
-            margin-bottom: 10px;
-            font-weight: bold;
+        ul {
+            list-style-type: none;
+            padding: 0;
         }
 
-        input[type="text"],
-        input[type="email"],
-        textarea {
-            width: 100%;
-            padding: 10px;
+        li {
             margin-bottom: 20px;
-            border: 1px solid #ccc;
-            border-radius: 5px;
         }
 
-        input[type="submit"] {
-            background-color: #333;
-            color: #fff;
-            padding: 10px 20px;
-            border: none;
-            border-radius: 5px;
-            cursor: pointer;
-            transition: background-color 0.3s ease;
+        a {
+            text-decoration: none;
+            color: #009688;
         }
 
-        input[type="submit"]:hover {
-            background-color: #444;
+        a:hover {
+            text-decoration: underline;
         }
 
-        /* Style the footer */
         footer {
-            text-align: center;
-            padding: 10px;
-            background-color: #333;
+            background-color: #009688;
             color: #fff;
+            text-align: center;
+            padding: 10px 0;
         }
     </style>
 </head>
 <body>
-    <!-- ... Rest of your HTML content ... -->
+    <header>
+        <h1>Welcome to Gut Go Drops</h1>
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="#about">About</a></li>
+            <li><a href="#products">Products</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+    </nav>
+
+    <section id="about">
+        <h2>About Us</h2>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit...</p>
+    </section>
+
+    <section id="products">
+        <h2>Our Products</h2>
+        <p>Explore our range of Gut Go Drops products:</p>
+        <ul>
+            <li>
+                <h3>Product 1</h3>
+                <p>Description of Product 1. <a href="product_1">Learn More</a></p>
+            </li>
+            <li>
+                <h3>Product 2</h3>
+                <p>Description of Product 2. <a href="product_2">Learn More</a></p>
+            </li>
+            <!-- Add more products as needed -->
+        </ul>
+    </section>
+
+    <section id="contact">
+        <h2>Contact Us</h2>
+        <p>If you have any questions or inquiries, please contact us:</p>
+        <form>
+            <label for="name">Name:</label>
+            <input type="text" id="name" name="name" required><br>
+
+            <label for="email">Email:</label>
+            <input type="email" id="email" name="email" required><br>
+
+            <label for="message">Message:</label>
+            <textarea id="message" name="message" required></textarea><br>
+
+            <input type="submit" value="Submit">
+        </form>
+    </section>
+
+    <footer>
+        <p>&copy; 2023 Gut Go Drops</p>
+    </footer>
 </body>
 </html>
