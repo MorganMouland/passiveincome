@@ -89,8 +89,7 @@
     </header>
 
     <nav>
-        <ul>
-            <li><a href="#about">About</a></li>
+        <ul><li><a href="#about">About</a></li>
             <li><a href="#products">Products</a></li>
             <li><a href="#contact">Other Offers</a></li>
         </ul>
@@ -133,8 +132,6 @@ Stress Management: Stress can take a toll on your digestive system. Gut Go offer
 Gut Go Drops have emerged as a promising solution for individuals seeking relief from chronic constipation, bloating, and gas. With its innovative liquid formula and the potential to cleanse the colon, Gut Go Drops have garnered praise from satisfied users. Consider giving Gut Go Drops a try if you're looking to transform your digestive health and experience the benefits of a flatter tummy, regular bowel movements, and improved overall well-being. Remember, individual results may vary, so consult with a healthcare professional before starting any new supplement regimen.</p>
 
 </p>
-
-    </section>
 
     <section id="products">
         <h2>Get Gut Go</h2>
